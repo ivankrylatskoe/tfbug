@@ -15,7 +15,7 @@ This is a demo project for tensorflow bugtracker. It demonstrates the difference
         25 18 15 16 10 253 
         25 18 16 18 10 253 
         25 18 17 19 10 253 
-        32 18 15 16 10 253 `
+        32 18 15 16 10 253
 
 
 **Python output:**
